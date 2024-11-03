@@ -11,7 +11,7 @@ I’m Ali Khajouei, a Computer Engineering student at Shahid Bahonar University 
 - 👯 I’m looking to collaborate on open-source projects that make an impact in the developer community.
 - 🤔 I’m looking for help with optimizing complex queries and performance tuning in Django.
 - 💬 Ask me about anything related to Django, Flask, or web development.
-- 📫 How to reach me: [Your Email or LinkedIn]
+- 📫 How to reach me: [ali.khajoei.96@gmail.com]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new programming frameworks and integrating them into real-world projects!
 
